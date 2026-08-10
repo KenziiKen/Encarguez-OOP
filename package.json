@@ -1,0 +1,28 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "oop code practice",
+  "keywords": [
+    "oop",
+    "practice",
+    "default"
+  ],
+  "homepage": "https://github.com/KenziiKen/Encarguez-OOP#readme",
+  "bugs": {
+    "url": "https://github.com/KenziiKen/Encarguez-OOP/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenziiKen/Encarguez-OOP.git"
+  },
+  "license": "ISC",
+  "author": "encarguez, ken shinn",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
